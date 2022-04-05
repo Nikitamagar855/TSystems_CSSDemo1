@@ -1,0 +1,52 @@
+﻿
+
+.header{
+    height:20px;
+}
+.menu{
+    height:70px;
+
+    background-color:#F2F4F4;
+}
+.menu ul{
+    display:inline-flex;
+    float:right;
+}
+
+.menu ul li{
+    list-style-type:none;
+    margin-right:41px;
+}
+
+.menu ul li a{
+    text-decoration:none;
+    color:#C0392B;
+    font-size:23px;
+    font-weight:500;
+}
+a:hover {
+    color:#1B4F72!important;
+}
+    .banner
+{
+    background-image: url(banner.jpeg);
+    height: 305px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+   main-content ul li{
+       list-style-type:none;
+       margin-right:41px;
+   }
+main-content ul li {
+    text-decoration:none;
+    color:#ffffff;
+    font-size:23px;
+    font-weight:800;
+}   
+
+footer{
+    height:70px;
+    background-color:#F2F4F4;
+}
+
